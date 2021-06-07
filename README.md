@@ -1,7 +1,7 @@
 # A-Star-Search-Pathfinding-Visualizer
 A pathfinding visualizer based on the A* pathfinding algorithm written in Java.
 
-• Left click on mouse: (over a cell on the grid) displays the start node of colour blue
+• Left click on mouse: (over a cell on the grid) displays the start node of colour blue\n
 • Right click on mouse: (over a cell on the grid) displays the end/target node of colour red
 • Middle click on mouse: (over a cell on the grid) displays a blocker node of colour black 
 
