@@ -23,3 +23,4 @@ If not, an appropriate message is displayed to user informing them of no availab
 
 If the user wants to clear the grid (i.e so they can store the start/end/blocker nodes on different positions on the grid), they can click the 'R(eset)' button on the keyboard
 
+![examplegif](https://user-images.githubusercontent.com/78429974/121015794-4bc12080-c793-11eb-83b8-ae447370ad89.gif)
